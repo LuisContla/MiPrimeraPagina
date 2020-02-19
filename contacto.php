@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>FreeToGo - Contacto</title>
-	<link rel="stylesheet" type="text/css" href="CSS/estilocontacto.css">
+	<link rel="stylesheet" type="text/css" href="css/estilocontacto.css">
 </head>
 <body img background="fondo.jpg">
 	<div class="main-container">

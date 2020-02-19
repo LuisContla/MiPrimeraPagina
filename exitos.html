@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>FreeToGo - Exitos</title>
-	<link rel="stylesheet" type="text/css" href="CSS/estiloexitos.css">
+	<link rel="stylesheet" type="text/css" href="css/estiloexitos.css">
 </head>
 <body img background="fondo.jpg">
 	<div class="main-container">

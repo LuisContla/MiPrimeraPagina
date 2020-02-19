@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>FreeToGo - Conocenos</title>
-	<link rel="stylesheet" type="text/css" href="CSS/estiloconocenos.css">
+	<link rel="stylesheet" type="text/css" href="css/estiloconocenos.css">
 </head>
 <body img background="fondo.jpg">
 	<div class="main-container">

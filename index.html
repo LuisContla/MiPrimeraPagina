@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>FreeToGo - Inicio</title>
-	<link rel="stylesheet" type="text/css" href="CSS/estiloinicio.css">
+	<link rel="stylesheet" type="text/css" href="css/estiloinicio.css">
 </head>
 <body img background="fondo.jpg">
 	<div class="main-container">
