@@ -7,19 +7,19 @@
 <body img background="fondo.jpg">
 	<div class="main-container">
 		<nav>
-			<h3><a href="index.php">Inicio</a></h3>
+			<h3><a href="index.html">Inicio</a></h3>
 		</nav>
 		<nav>
 			<h3>Conocenos</h3>
 		</nav>
 		<nav>
-			<h3><a href="servicios.php">Servicios</a></h3>
+			<h3><a href="servicios.html">Servicios</a></h3>
 		</nav>
 		<nav>
-			<h3><a href="exitos.php">Exitos</a></h3>
+			<h3><a href="exitos.html">Exitos</a></h3>
 		</nav>
 		<nav>
-			<h3><a href="contacto.php">Contacto</a></h3>
+			<h3><a href="contacto.html">Contacto</a></h3>
 		</nav>
 		<section>
 			<font size="5">¿Quienes Somos?</font>
